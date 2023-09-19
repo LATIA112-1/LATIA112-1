@@ -1,16 +1,32 @@
-### Hi there 👋
+### 國立臺灣師範大學 教育大數據為學程 LATIA112-1 
 
-<!--
-**LATIA112-1/LATIA112-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+課名: 學習分析工具與實務應用 LATIA1112-1
 
-Here are some ideas to get you started:
+授課教師: 廖執善 老師
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+姓名: 王麗盈
+
+系級: 健康促進與衛生教育116
+
+## 目錄 ##
+* 課程筆記區
+
+* 作業連結區
+
+* 作業一
+
+* 作業二
+
+* 作業三
+
+## 課程筆記區 ##
+
+## 作業連結區 ##
+
+作業一
+
+作業二 
+
+作業三 
+
+## 專題連結區 ##
