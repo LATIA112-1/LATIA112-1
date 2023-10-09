@@ -1,10 +1,17 @@
-### 國立臺灣師範大學 教育大數據為學程 LATIA112-1 
+import pandas as pd
+import random
+import matplotlib.pyplot as plt
+# 問題一: 東區幾所? 北區幾所?
+type_list = []
 
-課名: 學習分析工具與實務應用 LATIA1112-1
+for i in df['行政區域']:
+    if ('北區' in i) 
+        type_list.append('北區')
+    if ('香山' in i) 
+        type_list.append('香山')
+    else:
+        type_list.append('東區')
+df1 = df.drop_duplicates('行政區域')
 
-授課教師: 廖執善 老師
-
-姓名: 王麗盈
-
-系級: 健康促進與衛生教育116
-
+print(f"本資料集共收集了 {len(df1)} 所學校，其中香山區：{count['香山']} 所；東區：{count['東區']} 所。")；北區：{count['北區']}
+# 問題二: 各區有幾班分散式資源班
