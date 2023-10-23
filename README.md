@@ -20,7 +20,7 @@
 
 # 作業連結區
 
-# 作業一(#https://github.com/LATIA112-1/LATIA112-1/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%80)
+# 作業一
 
 # 作業二
 
