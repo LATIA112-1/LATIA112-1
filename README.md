@@ -21,8 +21,7 @@
 # 作業連結區
 
 ## 作業一
-[41205015E_HW1.ipynb](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%80)
-## 作業二
+[41205015E_HW1.ipynb](https://github.com/LATIA112-1/LATIA112-1/blob/main/4120515E_HW1.ipynb)
 
 ## 作業三
 
