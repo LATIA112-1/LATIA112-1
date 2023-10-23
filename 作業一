@@ -1,17 +1,1 @@
-import pandas as pd
-import random
-import matplotlib.pyplot as plt
-# 問題一: 東區幾所? 北區幾所?
-type_list = []
 
-for i in df['行政區域']:
-    if ('北區' in i) 
-        type_list.append('北區')
-    if ('香山' in i) 
-        type_list.append('香山')
-    else:
-        type_list.append('東區')
-df1 = df.drop_duplicates('行政區域')
-
-print(f"本資料集共收集了 {len(df1)} 所學校，其中香山區：{count['香山']} 所；東區：{count['東區']} 所。")；北區：{count['北區']}
-# 問題二: 各區有幾班分散式資源班
