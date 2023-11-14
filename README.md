@@ -24,7 +24,7 @@
 [41205015E_HW1.ipynb](https://github.com/LATIA112-1/LATIA112-1/blob/main/HW1/41205015E.ipynb)
 
 ## 作業二
-[41205015E_HW2.csv]((https://github.com/LATIA112-1/LATIA112-1/blob/main/%E7%8E%8B%E9%BA%97%E7%9B%88_HW2.csv)
+[41205015E_HW2.csv](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E7%8E%8B%E9%BA%97%E7%9B%88_HW2.csv)
 [41205015E_HW2.zip](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E7%8E%8B%E9%BA%97%E7%9B%88_HW2.zip)
 ## 作業三
 
