@@ -1,0 +1,52 @@
+,State,"Total required credits, all courses",English/language arts,Social studies,Mathe-matics,Science,Health,Physical education,Arts,Foreign language,Technology/life skills,High school exit exam required to graduate,Specific course requirements
+0,Alabama,24,4,4,4,4,1,(1),0.5,0,—,Yes,—
+1,Alaska,21,4,3,2,2,1,(1),—,0,—,Yes,—
+2,Arizona,20,4,2.5,2,2,0,0,1,0,—,Yes,—
+3,Arkansas,21,4,3,4,3,0.5,0.5,0.5,1,—,No,"In math: algebra and geometry. In science: biology andphysical science. In social studies: world history, U.S. history, and government."
+4,California,13,3,3,2,2,—,2,1,(3),—,Yes,In math: 2 credits of algebra or higher level courses. In science: biology and physical science. In social studies: 0.5 credit of economics.
+5,Colorado,†,†,†,†,†,0,0,†,0,—,No,—
+6,Connecticut,20,4,3,3,2,—,1,1,—,—,No,—
+7,Delaware,22,4,3,3,3,0.5,1,—,0,4,No,In math and science: Students must meet content standards. In technology/life skills: 3 credits of career pathway and 1 credit of computer literacy.
+8,District of Columbia,23.5,4,3.5,3,3,0.75,0.75,1,2,—,Yes,"In math: algebra. In social studies: U.S. history, U.S. government, and DC history and government. Community service hours are also required."
+9,Florida,24/18,4,3,3,3,0.5,1,1,2,—,Yes,In math: algebra or the equivalent. In science: 2 to 3 credits of laboratory. In English/language arts: 4 credits of composition and literature.
+10,Georgia,22,4,3,4,3,1,1,—,2,—,Yes,"In math: 1 credit each of algebra, geometry, algebra II, and another math. In science: 1 credit each of life, physical, and another science. In social studies: 1 credit of world history, 1 credit of U.S. history, 0.5 credit of government, and 0.5 credit of economics. In English/language arts: 1 credit of American literature."
+11,Hawaii,22,4,4,3,3,0.5,1,—,0,—,No,—
+12,42,9,5,4,4,0.5,†,2,†,—,Yes,In science: 2 credits of laboratory. In English/language arts: 1 credit of speech or debate.,
+13,Illinois,10.25,3,2,2,1,0.5,—,1,0,—,No,"While not a state graduation requirement, daily physical education is required in all 4 years of high school."
+14,24,8,4,4,4,1,1,—,†,2,Yes,"In science: 4 credits in two out of three specified courses (life, physical, or earth/space science). In social studies: 1 credit in U.S. history and 2 credits in U.S. government. In technology/life skills: 2 credits of computer applications/other.",
+15,Iowa,1.5,†,1.5,†,†,†,†,†,†,—,No,In social studies: 1 credit of U.S. history and 0.5 credit of U.S. government. In physical education: 0.125 credit per semester.
+16,Kansas,21,4,3,2,2,0.5,0.5,—,0,—,No,In science: 1 credit of laboratory. In social studies: 1 credit of U.S. history and 0.5 credit each of U.S. government and state history.
+17,Kentucky,22,4,3,3,3,0.5,0.5,1,2,—,No,"In math: algebra, geometry, and another math. In science: 1 credit each of life, physical, and earth/space science. In English/language arts: 1 credit each of English I through IV. In technology/life skills: as determined by individual learning plan."
+18,Louisiana,23,4,3,3,3,0.5,1.5,—,0,—,Yes,"In science: 1 credit of biology. In social studies: 1 credit of U.S. history, 0.5 credit of civics, and 0.5 credit of enterprise. In English/language arts: 1 credit each of English I through IV."
+19,Maine,16,4,2,2,2,0.5,1,1,2,—,No,—
+20,Maryland,21,4,3,3,3,0.5,0.5,1,2,(8),Yes,"In math: 1 credit each of algebra/data analysis and of geometry. In science: 1 credit of biology and 2 credits of life, physical, or earth science. In social studies: 1 credit of world history, 1 credit of U.S. history, and 1 credit of government. "
+21,Massachusetts,†,†,†,†,†,0,0,†,0,—,Yes,—
+22,Michigan,†,†,0.5,†,†,0,0,†,0,—,Yes,—
+23,Minnesota,21.5,4,3.5,3,3,†,†,1,†,—,Yes,"In math: 1 credit each of algebra, geometry, and statistics/probability. In science: 1 credit of biology and 1 credit each of 2 electives. In social studies: 3.5 credits of world/U.S. history, government, economics, and geography. "
+24,Mississippi,20,4,3,3,3,0.5,(9),1,0,1,Yes,"In math: 1 credit of algebra. In science: 1 credit of biology. In social studies: 1 credit of world history, 1 credit of U.S. history, and 1 credit of U.S. government. In technology/life skills: MS studies, computer applications, and keyboarding."
+25,Missouri,22,3,2,2,2,0,1,1,0,—,No,In social studies: 0.5 credit of American government and civics. 
+26,Montana,20,4,2,2,2,1,1,1,0,—,No,—
+27,Nebraska,†,†,†,†,†,0,0,†,0,—,No,—
+28,Nevada,22.5,4,2,3,2,0.5,2,1,0,—,Yes,—
+29,New Hampshire,19.75,4,2.5,2,2,0.25,1,0.5,0,1,No,In science: 1 credit each of biology and physical science. In social studies: 0.5 credit of economics. In technology/life skills: 0.5 credit each of basic business and computer education.
+30,New Jersey,22,4,3,3,3,3.75,(1),1,1,—,Yes,In social studies: 1 credit of world history and 2 credits of U.S. history. 
+31,New Mexico,23,4,3,3,2,0,1,—,0,—,Yes,"In math: 1 credit of algebra. In science: 1 credit of one course with a lab. In social studies: 1 credit of world history and geography, 1 credit of U.S. history and geography, 0.5 credit of government, and 0.5 credit of economics. In English/language arts: 1 credit of communication skills."
+32,New York,12,4,4,2,2,0,0,—,0,—,Yes,—
+33,North Carolina,20,4,3,3,3,1,(1),†,2,—,Yes,"In math: 1 credit of algebra. In science: 1 credit each of biology, physical, and earth science. In social studies: 1 credit each of world history, U.S. history, and civics and economics."
+34,North Dakota,†,†,†,†,†,0,0,†,0,—,No,—
+35,Ohio,21,4,3,3,3,0.5,0.5,†,†,—,Yes,In science: 1 credit each of biology and physical science. In social studies: 0.5 credit each of American history and American government.
+36,Oklahoma,23,4,3,3,3,0,0,2,0,—,Yes,"In math: 3 credits of algebra and higher level courses. In science: 1 credit each of biology and of two higher level electives. In social studies: 0.5 to 1 credit of world history, 1 credit of U.S. history, 0.5 to 1 credit of U.S. government, 0.5 credit of Oklahoma history, and 0.5 to 1 credit of geography."
+37,Oregon,22,3,3,2,2,1,1,1,0,—,No,"In social studies: history, civics, geography, and economics. In English/language arts: 1 credit of written composition."
+38,Pennsylvania,†,†,†,†,†,0,0,†,0,—,No,—
+39,Rhode Island,16,4,2,2,2,(10),(10),—,0,—,No,In science: lab science (2 credits for college-prep students only).
+40,South Carolina,24,4,3,4,3,1,(1),—,1,—,Yes,In technology/life skills: computer applications.
+41,South Dakota,20,4,3,2,2,0,0,0.5,0,—,No,"In social studies: U.S. history, U.S. government, and geography. In English/language arts: writing, American literature, and speech."
+42,Tennessee,20,4,3,3,3,1,(1),—,2,—,Yes,"In math: algebra. In science: biology. In social studies: 1 credit of U.S. history, 0.5 credit of U.S. government, and 0.5 credit of economics."
+43,Texas,24,4,3.5,3,3,0.5,1.5,1,2,1,Yes,"In math: 1 credit each of algebra, geometry, and algebra II. In science: biology, chemistry, physics, and integrated physics. In social studies: 1 credit of world history or world geography, 1 credit of U.S. history from reconstruction, and 0.5 credit each of U.S. government and economics. In English/language arts: 0.5 credit of communications applications. In technology/life skills: 1 credit of technology."
+44,Utah,24,3,2.5,2,2,0.5,1.5,—,0,—,Yes,"In math: algebra/applied math I and geometry/applied math II. In science: biology, chemistry, physics, and earth science. In social studies: 0.5 credit of world civilization, 1 credit of U.S. history, 0.5 credit of U.S. government, and 0.5 credit of geography. In English/language arts: 1 credit each of language arts 9 through 11. "
+45,Vermont,12,4,3,5,(11),0,0,1,0,—,No,—
+46,Virginia,22,4,3,3,3,2,(1),1,0,—,Yes,"In math: 3 credits of algebra or higher level courses. In science: 3 credits in two out of three courses (biology, chemistry, or earth science). In social studies: 1 credit each of world history/geography, U.S. and state history, and U.S. and state government."
+47,Washington,19,3,2.5,2,2,0,2,1,0,—,Yes,In math and science: Students must meet content standards. In social studies: 2 credits of U.S. history/government/current affairs and 0.5 credit of state history.
+48,West Virginia,24,4,4,3,3,1,1,—,0,4,No,In math: algebra and higher level course. In science: coordinated and thematic science in grades 9 and 10. In social studies: world and U.S. studies to 1900 and 20th/21st centuries. In English/language arts: reading and language arts. In technology/life skills: 4 credits in work-based learning and career courses.
+49,Wisconsin,13,4,3,2,2,0.5,1.5,—,0,—,No,—
+50,Wyoming,13,4,3,3,3,†,†,†,†,—,No,"In social studies: history, American government, and economic institutions."
