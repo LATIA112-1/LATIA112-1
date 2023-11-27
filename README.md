@@ -27,6 +27,6 @@
 [41205015E_HW2.csv](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E7%8E%8B%E9%BA%97%E7%9B%88_HW2.csv)
 [41205015E_HW2.zip](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E7%8E%8B%E9%BA%97%E7%9B%88_HW2.zip)
 ## 作業三
-
-
+[part1](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89part1)
+[part2]
 # 專題連結區 
