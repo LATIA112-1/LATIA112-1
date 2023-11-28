@@ -35,5 +35,6 @@
 [part2 config.ini](https://github.com/LATIA112-1/LATIA112-1/blob/main/config.ini)
 [part2 作業成果](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E4%BD%9C%E6%A5%AD%E6%88%90%E6%9E%9C.jpg)
 ## 作業四
+[pie chart](https://github.com/LATIA112-1/LATIA112-1/tree/main/pie%20chart.py)
 
 # 專題連結區 
