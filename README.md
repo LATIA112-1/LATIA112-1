@@ -30,7 +30,9 @@
 [part1](https://github.com/LATIA112-1/LATIA112-1/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%89part1)
 
 
-[part2](https://github.com/LATIA112-1/LATIA112-1/blob/main/app.py)
-[part2 linebot](https://github.com/LATIA112-1/LATIA112-1/blob/main/config.ini)
+[part2 app.py](https://github.com/LATIA112-1/LATIA112-1/blob/main/app.py)
+[part2 config.ini](https://github.com/LATIA112-1/LATIA112-1/blob/main/config.ini)
+
+## 作業四
 
 # 專題連結區 
